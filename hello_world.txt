@@ -1,0 +1,3 @@
+this isn't your classic Hello world text
+this is the beginning of something bigger
+a new era for developing
